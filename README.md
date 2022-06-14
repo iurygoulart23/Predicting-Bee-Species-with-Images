@@ -33,6 +33,7 @@ In this project i will predict the bee specie with a supervised learning model.
 ### Conclusion:
 
 I used the Datacamp IDE because my computer have a problem to import Skimage library. (dont know why) 
+The code is right but have some errors because my computer dont import the libraries correctly.
 
 Using the Support Vector Machine (SVM) model with a StandarScaler and PCA metods at my data i can get 68% of accuracy.
 
